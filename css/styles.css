@@ -1,0 +1,20 @@
+body {
+background-image: url("background.jpg");
+}
+{
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+Body {
+  color: black;
+  font-family: frosty;
+  font-size: 20pt;
+}
+div {
+  h1 {
+    font-size: 5em;
+  }
+}
