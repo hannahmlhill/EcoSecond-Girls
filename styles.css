@@ -1,0 +1,42 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: left;
+}
+
+/* Bar Color */
+nav
+{
+  background-color: #228B22;
+}
+
+body {
+background-image: url("background.jpg");
+}
+{
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+<div class="row">
+        <div class="col-sm">
+          <p style="font-family: impact">
+          Sustainable ideas
+          </p>
+        </div>
+        <div class="col-sm">
+          <p style="font-family: impact">
+          Smart ideas
+        </p>
+        </div>
+        <div class="col-sm">
+          <p style="font-family: impact">
+          Saving ideas
+        </p>
+        </div>
+      </div>
